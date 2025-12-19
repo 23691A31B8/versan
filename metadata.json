@@ -1,0 +1,5 @@
+{
+  "name": "Copy of VeriText - Advanced Plagiarism Checker",
+  "description": "An NLP-powered application that analyzes text originality, detects potential plagiarism, and identifies online sources using the Gemini 3 Flash model with Google Search grounding.",
+  "requestFramePermissions": []
+}
